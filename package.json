@@ -39,7 +39,7 @@
         "graphql-iso-date": "^3.6.1",
         "graphql-resolvers": "^0.3.2",
         "jsonwebtoken": "^8.4.0",
-        "lodash": "^4.17.15",
+        "lodash": "^4.17.19",
         "mongoose": "^5.9.2",
         "uuid": "^3.3.2",
         "validator": "^10.9.0"
